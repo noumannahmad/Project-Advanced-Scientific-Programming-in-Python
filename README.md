@@ -1,7 +1,6 @@
 ## Project-Advanced-Scientific-Programming-in-Python
 
-
-#Introduction
+## Introduction
 
 COVID-19 is a deadly disease that has affected the world, causing millions of infections and deaths. To prevent the spread of this disease, the World Health Organization recommends wearing masks in public places. Artificial intelligence, specifically computer vision, is being used to automatically detect whether people are wearing masks or not. Machine learning techniques are also being used, but deep learning models are producing remarkable results as they can extract features and classify images automatically.
 
